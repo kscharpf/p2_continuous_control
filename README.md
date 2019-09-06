@@ -38,9 +38,11 @@ The Unity environment selected for this project was the second version which con
 Follow the instructions in `Continuous_Control.ipynb` to get started with training your own agent!  Execute each cell in order to generate the solution.
 
 ### Contents
-[Report.ipynb](https://github.com/kscharpf/p2_continuous_control/blob/master/Report.ipynb] is the jupyter notebook for the post-project report.
+[Report.ipynb](https://github.com/kscharpf/p2_continuous_control/blob/master/Report.ipynb) is the jupyter notebook for the post-project report.
 [Report.pdf](https://github.com/kscharpf/p2_continuous_control/blob/master/Report.pdf) is the pdf generated from the above jupyter notebook.
 [Continuous_Control.ipynb](https://github.com/kscharpf/p2_continuous_control/blob/master/Continuous_Control.ipynb)
+[ddpg_agent.py](https://github.com/kscharpf/p2_continuous_control/blob/master/ddpg_agent.py)
+[model.py](https://github.com/kscharpf/p2_continuous_control/blob/master/model.py)
 data/*.pkl - Pickle files containing the learned scores per episode of each model
 data/*.pt - Pytorch trained model files for the actor and the critic for each model.
 
