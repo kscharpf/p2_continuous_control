@@ -46,3 +46,5 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 data/*.pkl - Pickle files containing the learned scores per episode of each model
 data/*.pt - Pytorch trained model files for the actor and the critic for each model.
 
+### Completion
+The project is considered solved when the average game score across all 20 agents over the course of 100 consecutive episodes is greater than 30.
