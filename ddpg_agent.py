@@ -20,6 +20,9 @@ USE_BATCH_NORM = True
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
+# Note that much of the source code is derived from the ddpg_agent.py
+# file provided by the Udacity DRL github.
+
 class Agent():
     """Interacts with and learns from the environment."""
     
